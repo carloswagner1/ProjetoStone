@@ -1,0 +1,14 @@
+2
+3
+100
+3
+100
+7
+cliente1@stone.com
+cliente2@stone.com
+cliente3@stone.com
+cliente4@stone.com
+cliente5@stone.com
+cliente6@stone.com
+cliente7@stone.com
+

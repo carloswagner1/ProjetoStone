@@ -1,0 +1,13 @@
+C:\Users\cwrsi\source\repos\ProjetoStone\ProjetoStone\bin\Debug\netcoreapp3.1\ProjetoStone.exe
+C:\Users\cwrsi\source\repos\ProjetoStone\ProjetoStone\bin\Debug\netcoreapp3.1\ProjetoStone.deps.json
+C:\Users\cwrsi\source\repos\ProjetoStone\ProjetoStone\bin\Debug\netcoreapp3.1\ProjetoStone.runtimeconfig.json
+C:\Users\cwrsi\source\repos\ProjetoStone\ProjetoStone\bin\Debug\netcoreapp3.1\ProjetoStone.runtimeconfig.dev.json
+C:\Users\cwrsi\source\repos\ProjetoStone\ProjetoStone\bin\Debug\netcoreapp3.1\ProjetoStone.dll
+C:\Users\cwrsi\source\repos\ProjetoStone\ProjetoStone\bin\Debug\netcoreapp3.1\ProjetoStone.pdb
+C:\Users\cwrsi\source\repos\ProjetoStone\ProjetoStone\obj\Debug\netcoreapp3.1\ProjetoStone.csprojAssemblyReference.cache
+C:\Users\cwrsi\source\repos\ProjetoStone\ProjetoStone\obj\Debug\netcoreapp3.1\ProjetoStone.AssemblyInfoInputs.cache
+C:\Users\cwrsi\source\repos\ProjetoStone\ProjetoStone\obj\Debug\netcoreapp3.1\ProjetoStone.AssemblyInfo.cs
+C:\Users\cwrsi\source\repos\ProjetoStone\ProjetoStone\obj\Debug\netcoreapp3.1\ProjetoStone.csproj.CoreCompileInputs.cache
+C:\Users\cwrsi\source\repos\ProjetoStone\ProjetoStone\obj\Debug\netcoreapp3.1\ProjetoStone.dll
+C:\Users\cwrsi\source\repos\ProjetoStone\ProjetoStone\obj\Debug\netcoreapp3.1\ProjetoStone.pdb
+C:\Users\cwrsi\source\repos\ProjetoStone\ProjetoStone\obj\Debug\netcoreapp3.1\ProjetoStone.genruntimeconfig.cache
